@@ -1,0 +1,63 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  
+}
+
+.navbar a {
+  font-size: 1rem;
+}
+
+
+/* Hero Section */
+
+
+/* Destinations */
+.destinations {
+  padding: 50px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.destinations h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.destination-content p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.destination-content a {
+  color: #00c74a;
+  font-weight: bold;
+  margin-top: 20px;
+  display: inline-block;
+}

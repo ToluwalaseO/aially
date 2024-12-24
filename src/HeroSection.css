@@ -1,0 +1,122 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-color: black;
+    border-radius: 29px;
+    position: relative;
+    left:35px;
+    top:35px;
+    height: 500px;
+    width: 1660px;
+  }
+  
+  .hero-content {
+    
+
+  
+  }
+  
+  .hero h1 {
+    font-size: 50px;
+    color: white;
+   
+  }
+  .hero h2 {
+    font-size: 50px;
+    position: relative;
+    bottom: 47px;
+    color: white;
+   
+  }
+  
+  .hero a {
+    font-size: 16px;
+    position:relative;
+    bottom:76px;
+    color: white;
+    font-weight: normal;
+  }
+  .hero b {
+    font-size: 16px;
+    position:relative;
+    bottom:53px;
+    color: white;
+    font-weight: normal;
+    right:290px;
+  }
+   .hero c {
+    font-size: 16px;
+    position:relative;
+    bottom:30px;
+    color: white;
+    right: 600px;
+  }
+  .hero d {
+    font-size: 16px;
+    position:relative;
+    bottom:10px;
+    color: white;
+    right:906px;
+  }
+  
+  .cta-buttons button {
+    margin-right: 15px;
+    padding: 10px 20px;
+    border: none;
+
+    cursor: pointer;
+  }
+  
+  .get-app-btn {
+    background-color: #00c74a;
+    color: black;
+    border-radius: 100px;
+  }
+  
+  .more-btn {
+    background-color: black;
+    color: #ffffff;
+    
+  }
+  
+  .stats {
+    margin-top: 20px;
+  }
+  .stats j{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    left:5px;
+
+  }
+
+  .stats f{
+    position: relative;
+    top:26px;
+    right:38px;
+    color: white;
+
+  }
+  .stats k{
+    position: relative;
+    right:25px;
+    color: white;
+    font-size: 30px;
+
+  }
+  .stats r{
+    position: relative;
+    top:25px;
+    right:103px;
+    color: white;
+
+  }
+
+
+  
+  .hero-image img {
+    width: 300px;
+    border-radius: 15px;
+  }
