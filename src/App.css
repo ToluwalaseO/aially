@@ -38,26 +38,3 @@ a {
 /* Hero Section */
 
 
-/* Destinations */
-.destinations {
-  padding: 50px;
-  text-align: center;
-  background-color: #f9f9f9;
-}
-
-.destinations h2 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-}
-
-.destination-content p {
-  font-size: 1.2rem;
-  margin: 10px 0;
-}
-
-.destination-content a {
-  color: #00c74a;
-  font-weight: bold;
-  margin-top: 20px;
-  display: inline-block;
-}
