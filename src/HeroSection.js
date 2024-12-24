@@ -1,6 +1,6 @@
 import React from "react";
 import "./HeroSection.css";
-// import phoneImage from "../assets/phone.png"; // Save phone image here
+
 
 const HeroSection = () => {
   return (
@@ -14,7 +14,7 @@ const HeroSection = () => {
         <d>across various domains.</d>
         
         <div className="cta-buttons">
-          <button className="get-app-btn">Get the App</button>
+          <button className="get-app-btn">Get the App →</button>
           <button className="more-btn">More</button>
         </div>
         <div className="stats">
@@ -25,7 +25,7 @@ const HeroSection = () => {
         </div>
       </div>
       <div className="hero-image">
-        {/* <img src={phoneImage} alt="App preview on phone" /> */}
+      <img src="/phoneImage.png" alt="App preview on phone" />
       </div>
     </section>
   );
