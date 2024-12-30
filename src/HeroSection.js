@@ -10,8 +10,8 @@ const HeroSection = () => {
         <h2>potential of AI</h2>
         <a>AI Ally is a versatile assistant that utilizes</a>
         <b>state-of-the-art natural language processing</b>
-        <c>to provide real-time support and assistance</c>
-        <d>across various domains.</d>
+        <h3>to provide real-time support and assistance</h3>
+        <h4>across various domains.</h4>
         
         <div className="cta-buttons">
           <button className="get-app-btn">Get the App →</button>

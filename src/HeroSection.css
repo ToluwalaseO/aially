@@ -6,8 +6,8 @@
     background-color: black;
     border-radius: 29px;
     position: relative;
-    left:35px;
-    top:35px;
+    left:95px;
+    top:40px;
     height: 500px;
     width: 1100px;
   }
@@ -15,7 +15,7 @@
  
   
   .hero h1 {
-    font-size: 50px;
+    font-size: 43px;
     color: white;
    
   }
@@ -42,19 +42,21 @@
     font-weight: normal;
     right:290px;
   }
-   .hero c {
+   .hero h3 {
     font-size: 16px;
     position:relative;
-    bottom:30px;
+    bottom:64px;
     color: white;
-    right: 600px;
+    font-weight: normal;
+    right: 0px;
   }
-  .hero d {
+  .hero h4 {
     font-size: 16px;
     position:relative;
-    bottom:10px;
+    bottom:83px;
     color: white;
-    right:906px;
+    right:0px;
+    font-weight: normal;
   }
   
   .cta-buttons button {
@@ -69,11 +71,16 @@
     background-color: #00c74a;
     color: black;
     border-radius: 100px;
+    position: relative;
+    bottom: 80px;
+    width: 180px;
   }
   
   .more-btn {
     background-color: black;
     color: #ffffff;
+    position: relative;
+    bottom:80px;
     
   }
   
@@ -85,12 +92,13 @@
     color: white;
     font-size: 30px;
     left:5px;
+    bottom: 40px;
 
   }
 
   .stats f{
     position: relative;
-    top:26px;
+    bottom:15px;
     right:38px;
     color: white;
     font-size: 13px;
@@ -98,15 +106,16 @@
   }
   .stats k{
     position: relative;
-    right:25px;
+    right:0px;
+    bottom: 40px;
     color: white;
     font-size: 30px;
 
   }
   .stats r{
     position: relative;
-    top:25px;
-    right:103px;
+    bottom:15px;
+    right:80px;
     color: white;
     font-size: 13px;
 
@@ -115,9 +124,15 @@
 
   
   .hero-image img {
-    width: 400px;
+    width: 440px;
     border-radius: 15px;
     position: relative;
-    right:300px;
-    top:50px;
+    right:36px;
+    top:24px;
+  }
+
+  .hero-content{
+    position:relative;
+    bottom: 50px;
+    left:100px;
   }

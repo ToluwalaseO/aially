@@ -1,5 +1,6 @@
 import React from "react";
 import "./Destinations.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; import { faSquareArrowUpRight } from "@fortawesome/free-solid-svg-icons";
 
 const Destinations = () => {
   return (
@@ -11,7 +12,7 @@ const Destinations = () => {
         <p3>various industries and fields.</p3>
         <p4>Discover how AI can streamline processes</p4>
         <p5>and elevate your work to new heights.</p5>
-        <a href="#applications">Discover all applications →</a>
+        <a href="#applications"> Discover all applications <FontAwesomeIcon icon={faSquareArrowUpRight} /> </a>
       </div>
     </section>
   );
