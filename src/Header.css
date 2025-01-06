@@ -12,13 +12,19 @@
   z-index: 10;
 }
   
+.jay{
+  background-color: orange;
+  position: relative;
+  left:100px;
+  z-index: 5;
+}
   /* Logo styling */
   .logo {
     font-size: 16px;
     font-weight: bold;
     color: rgb(0, 0, 0);
     position: relative;
-    left:160px;
+    left:60px;
   }
   
   /* Navbar styling */
@@ -29,7 +35,7 @@
     padding: 0;
     margin: 0;
     position: relative;
-    right:10px;
+    right:130px;
   }
   
   .navbar ul li a {

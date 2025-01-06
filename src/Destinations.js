@@ -5,7 +5,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; import { faSqu
 const Destinations = () => {
   return (
     <section className="destinations">
+      
       <h1>Different destinations</h1>
+      
       <div className="destination-content">
         <p1>We explore the diverse ways in which this</p1>
         <p2>technology can revolutionize work across</p2>

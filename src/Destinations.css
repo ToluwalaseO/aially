@@ -6,50 +6,52 @@
   }
   
   .destinations h1 {
-    font-size: 50px;
+    font-size: 35px;
     margin-bottom: 20px;
     position: relative;
-    right:535px;
+    right:565px;
     top: 10px;
   }
   
   .destination-content p1 {
-    font-size: 1.2rem;
+    font-size: 11px;
     margin: 10px 0;
     position: relative;
-    right:10px;
+    color: black;
+    right:173px;
+    bottom: 25px;
   }
   .destination-content p2 {
-    font-size: 1.2rem;
+    font-size: 11px;
     margin: 10px 0;
     position: relative;
     color: black;
-    top:23px;
-    right:365px;
+    bottom:10px;
+    right:376px;
   }
   .destination-content p3 {
-    font-size: 1.2rem;
+    font-size: 11px;
     margin: 10px 0;
     color: black;
     position: relative;
-    top:48px;
-    right:714px;
+    top:3px;
+    right:577px;
   }
   .destination-content p4 {
-    font-size: 1.2rem;
+    font-size: 11px;
     margin: 10px 0;
     color:black;
     position: relative;
-    right:580px;
-    bottom: 0px;
+    right:470px;
+    bottom: 26px;
   }
   .destination-content p5 {
-    font-size: 1.2rem;
+    font-size: 11px;
     margin: 10px 0;
     color: black;
     position: relative;
-    right:940px;
-    top:25px;
+    right:677px;
+    bottom:10px;
   }
   
   
@@ -59,7 +61,8 @@
     margin-top: 20px;
     display: inline-block;
     position: relative;
-    left: 200px;
+    right: 160px;
     bottom:42px;
+    font-size: 16px;
   }
   
